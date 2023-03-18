@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Google Search Results</title>
+  </head>
+  <body>
+    <h1>Google Search Results</h1>
+    <form>
+      <label for="keyword">Keyword:</label>
+      <input type="text" id="keyword" name="keyword"><br><br>
+      <input type="submit" value="Search">
+    </form>
+    <div id="results"></div>
+  </body>
+</html>
